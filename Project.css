@@ -1,0 +1,30 @@
+h1 {
+    font-size: 120px;
+    color: purple;
+    text-align: center;
+}
+a{
+    list-style-type: none;
+    background-color: #D0CDEF;
+    color: black;
+    font-size: 50px;
+    width: 180px;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: 1cm;
+}
+div {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+    background-color: #D0CDEF;
+}
+html
+{
+    background-image: url(alexkim.png);background-size: cover;
+}

@@ -1,0 +1,30 @@
+a {
+    background-color: #D0CDEF;
+    color: black;
+    font-size: 50px;
+    width: 190px;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: 1.5cm;
+}
+h1 {
+    font-size: 120px;
+    color: purple;
+    text-align: center;
+}
+.link {
+    font-size: 60px;
+    color: blanchedalmond;
+    text-align: center;
+}
+.button {
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    color : black;
+    text-align: center;
+}
+html {
+    background-color: #BF72A7;
+}

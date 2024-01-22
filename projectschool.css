@@ -1,0 +1,33 @@
+h1 {
+    font-size: 120px;
+    color: #D0CDEF;
+    text-align: center;
+}
+a{
+    background-color: #D0CDEF;
+    color: black;
+    font-size: 50px;
+    width: 130px;
+    border-radius: 20px;
+    margin-right: 1cm;
+}
+ul {
+    text-align: center;
+}
+div {
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h2 {
+    font-size: 30px;
+    color: purple;
+    text-align: center;
+    background-color: #D0CDEF;
+}
+html
+{
+    background-image: url(alexkim.png);background-size: cover;
+}
+
+
