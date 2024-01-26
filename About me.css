@@ -22,10 +22,11 @@ a{
     border-radius: 20px;
     text-align: center;
     margin-right: 1cm;
+    text-decoration: none;
 }
 .button {
     text-align: center;
 }
 html {
-    background-image: url(1.png);background-size: cover;
+    background-image: url(images/1.png);background-size: cover;
 }

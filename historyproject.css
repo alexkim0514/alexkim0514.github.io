@@ -10,6 +10,7 @@ a{
     width: 130px;
     border-radius: 20px;
     margin-right: 1cm;
+    text-decoration: none;
 }
 ul {
     text-align: center;
@@ -27,7 +28,7 @@ h2 {
 }
 html
 {
-    background-image: url(alexkim.png);background-size: cover;
+    background-image: url(images/alexkim.png);background-size: cover;
 }
 
 

@@ -1,5 +1,5 @@
 h1 {
-    font-size: 100px;
+    font-size: 120px;
     color: #5B04AF;
     text-align: center;
 }
@@ -20,11 +20,12 @@ a {
     width: 130px;
     border-radius: 20px;
     margin-right: 1cm;
+    text-decoration: none;
 }
 .button {
   text-align: center;
 }
 html {
       background-color: #978d8f;
-      background-image: url(alexkim.png);background-size: cover;
+      background-image: url(images/alexkim.png);background-size: cover;
 }

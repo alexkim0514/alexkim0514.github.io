@@ -6,6 +6,17 @@ a {
     border-radius: 20px;
     text-align: center;
     margin-right: 1.5cm;
+    text-decoration: none;
+}
+b {
+    background-color: yellowgreen;
+    color: black; 
+    font-size: 100px;
+    width: 250px;
+    border-radius: 20px;
+    text-align: center;
+    margin-right: 1.5cm;
+    text-decoration: none;
 }
 h1 {
     font-size: 120px;
@@ -13,7 +24,7 @@ h1 {
     text-align: center;
 }
 .link {
-    font-size: 60px;
+    font-size: 45px;
     color: blanchedalmond;
     text-align: center;
 }

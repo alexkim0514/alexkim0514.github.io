@@ -12,6 +12,7 @@ a{
     border-radius: 20px;
     text-align: center;
     margin-right: 1cm;
+    text-decoration: none;
 }
 div {
     text-align: center;
@@ -26,5 +27,5 @@ h2 {
 }
 html
 {
-    background-image: url(alexkim.png);background-size: cover;
+    background-image: url(images/alexkim.png);background-size: cover;
 }
