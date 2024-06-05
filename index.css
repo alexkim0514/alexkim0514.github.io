@@ -1,6 +1,6 @@
 h1 {
     font-size: 120px;
-    color: #5B04AF;
+    color: white;
     text-align: center;
 }
 ul {
@@ -10,11 +10,11 @@ ul {
 }
 h2 {
     font-size: 30px;
-    color: black;
+    color: white;
     text-align: center;
 }
 a {
-    background-color: #D0CDEF;
+    background-color: purple;
     color: black;
     font-size: 50px;
     width: 130px;
@@ -26,6 +26,9 @@ a {
   text-align: center;
 }
 html {
-      background-color: #978d8f;
-      background-image: url(images/alexkim.png);background-size: cover;
+      background-image: url(images/index.png);background-size: cover;
+}
+
+img{
+    position: absolute;
 }
